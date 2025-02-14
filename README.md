@@ -1,0 +1,1 @@
+# curasync-pharmacy-dashboard
